@@ -4,7 +4,7 @@
 
 EnginSync is an all-in-one web application built with Flask, designed to provide engineering students with a suite of powerful, AI-driven tools for academic success and career preparation. From interactive interview coaching to personalized study planning, EnginSync centralizes the resources students need to excel.
 
-![EnginSync Dashboard](https://placehold.co/800x400/2d3748/ffffff?text=EnginSync+Dashboard+UI)
+![EnginSync Dashboard](http://127.0.0.1:5000/)
 
 ---
 
