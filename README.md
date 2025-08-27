@@ -118,10 +118,9 @@ flask shell
 
 ### 6. Run the Application
 
-Start the Flask development server.
 
 ```bash
-flask run
+app.py
 ```
 
 The application will be running at `http://127.0.0.1:5000`.
